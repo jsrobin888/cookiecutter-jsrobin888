@@ -19,9 +19,9 @@ Overview
     :target: https://readthedocs.org/projects/cookiecutter-jsrobin888
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/jsrobin888/cookiecutter-jsrobin888.svg?branch=master
+.. |travis| image:: https://travis-ci.com/jsrobin888/cookiecutter-jsrobin888.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/jsrobin888/cookiecutter-jsrobin888
+    :target: https://travis-ci.com/jsrobin888/cookiecutter-jsrobin888
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/jsrobin888/cookiecutter-jsrobin888?branch=master&svg=true
     :alt: AppVeyor Build Status
